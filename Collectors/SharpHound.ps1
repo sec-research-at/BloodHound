@@ -12,6 +12,8 @@ function Invoke-BloodHound
         for the SharpHound executable and passed in via reflection. The appropriate function
         calls are made in order to ensure that assembly dependencies are loaded properly.
 
+        Destroy SHA Signature lololololol
+
     .PARAMETER CollectionMethods
 
         Specifies the CollectionMethods being used. Possible value are:
